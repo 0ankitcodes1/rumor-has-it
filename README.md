@@ -1,7 +1,7 @@
 
-# Falcon tech
+# Rumor Has It
 
-A front end design for a tech company made using html, css and bootstrap.
+A front end design for a clothing store using html, css, bootstrap and glidejs.
 
 ## Screenshots
 
